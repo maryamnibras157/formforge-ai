@@ -38,25 +38,25 @@ Unlike traditional static admin panels, FormForge AI uses a runtime component re
 
 ## Dashboard
 
-<img src="./public/screenshots/dashboard.png" width="100%" />
+<img src="./public/dashboard.png" width="100%" />
 
 ---
 
 ## Application Builder
 
-<img src="./public/screenshots/application.png" width="100%" />
+<img src="./public/application.png" width="100%" />
 
 ---
 
 ## CSV Import System
 
-<img src="./public/screenshots/import.png" width="100%" />
+<img src="./public/import.png" width="100%" />
 
 ---
 
 ## API Explorer
 
-<img src="./public/screenshots/explorer.png" width="100%" />
+<img src="./public/explorer.png" width="100%" />
 
 ---
 
