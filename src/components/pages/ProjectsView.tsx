@@ -15,7 +15,8 @@ import {
   ChevronRight,
   MoreVertical,
   Calendar,
-  Layers
+  Layers,
+  X
 } from 'lucide-react';
 import { useBuilderStore } from '../../store/builderStore';
 import { PageConfig } from '../../types';
