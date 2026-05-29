@@ -12,7 +12,7 @@ export async function POST(
 
     // Retrieve template configs
     const templatesList = await projectService.getTemplates();
-    const targetTemplate = templatesList.find(t => t.id === id);
+    const targetTemplate = templatesList.find((t: any) => t.id === id);
 
     if (!targetTemplate) {
       return NextResponse.json({ error: 'Template config not found' }, { status: 404 });
